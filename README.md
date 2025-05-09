@@ -9,7 +9,3 @@ This project is a machine learning model that predicts car prices based on vario
 ## Installation Instructions
 To run this project, you need to have Python installed on your machine. Follow these steps to set up the environment:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Car-Price-Prediction.git
-   cd Car-Price-Prediction
