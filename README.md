@@ -14,9 +14,11 @@ To run this project, you need to have Python installed on your machine. Follow t
    ```bash
    git clone https://github.com/sandip-pal1/Car-Price-Prediction.git
    cd Car-Price-Prediction
-Install the required packages: pip install numpy
+2.Install the required packages:
+pip install numpy
 pandas
 scikit-learn
 streamlit
 
+3.To run the Streamlit application, use the following command: 
 streamlit run src/app.py
