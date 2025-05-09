@@ -12,7 +12,8 @@ To run this project, you need to have Python installed on your machine. Follow t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Car-Price-Prediction.git
+   git clone https://github.com/sandip-pal1/Car-Price-Prediction.git
    cd Car-Price-Prediction
 Install the required packages: pip install -r requirements.txt
+
 streamlit run src/app.py
